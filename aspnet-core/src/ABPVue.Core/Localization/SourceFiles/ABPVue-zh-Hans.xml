@@ -24,7 +24,7 @@
     <text name="AppName" >ABPVue</text>
     <text name="UserNamePlaceholder" >请输入账户</text>
     <text name="PasswordPlaceholder" >请输入密码</text>
-    <text name="CopyRight" >© 2018 ABPVue</text>
+    <text name="CopyRight" >© 2020 ABPVue</text>
     <text name="LoginPrompt" >正在登陆，请稍候！</text>
     <text name="UserProfile" >用户资料</text>
     <text name="Users" >用户</text>
@@ -97,6 +97,21 @@
     <text name="DeleteTenantConfirm">确认删除该租户？</text>
     <text name="EditTenant">编辑租户</text>
     <text name="SearchWithThreeDot">搜索...</text>
+
+    <text name="CurrentPassword">当前密码</text>
+    <text name="UpdatePassword" value="更新密码" />
+    <text name="Save" value="保存" />
+    <text name="RoleDescription">角色描述</text>
+    <text name="Permissions">权限</text>
+    <text name="CurrentTenant">当前租户</text>
+    <text name="Change">更改</text>
+    <text name="Register" value="注册" />
+    <text name="Back">返回</text>
+    <text name="Version">版本</text>
+    <text name="AreYouSureWantToDelete">你确定要删除 {0} 吗?</text>
+    <text name="FullName" value="姓名" />
+    <text name="NewPassword">新密码</text>
+    <text name="ConfirmNewPassword">确认新密码</text>
     
   </texts>
 </localizationDictionary>

@@ -53,5 +53,20 @@
     <text name="Yes" value="はい" />
     <text name="No" value="いいえ" />
     <text name="Optional" value="オプション" />
+
+    <text name="CurrentPassword">現在のパスワード</text>
+    <text name="UpdatePassword" value="パスワードを更新する" />
+    <text name="RoleDescription">役割の説明</text>
+    <text name="Permissions">権限</text>
+    <text name="CurrentTenant">現在のテナント</text>
+    <text name="Change">変更する</text>
+    <text name="Back">返回</text>
+    <text name="Version">版本</text>
+    <text name="AreYouSureWantToDelete">{0} を削除することを決めましたか?</text>
+
+    <text name="Roles">役割</text>
+    <text name="DisplayName">表示名</text>
+    <text name="Actions">行動</text>
+    <text name="RoleName">ロール名</text>
   </texts>
 </localizationDictionary>
